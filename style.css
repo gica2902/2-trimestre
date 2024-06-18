@@ -21,6 +21,7 @@ padding: 0;
 }
 
 .principal{
+    
     background-image: url("img/background.png");
     background-repeat: no-repeat;
     background-size: contein;
@@ -41,7 +42,7 @@ padding: 0;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
-    margin-bot 
+    margin-bottom: 1em;
 }
 
 .button_secundario {
