@@ -24,6 +24,8 @@ padding: 0;
     background-image: url("img/background.png");
     background-repeat: no-repeat;
     background-size: contein;
+    align-itens: center;
+    text-align: center;
 }
 
 .container{
